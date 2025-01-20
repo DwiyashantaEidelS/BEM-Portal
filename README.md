@@ -1,4 +1,4 @@
-**BEM-Portal**
+# BEM-Portal
 
 BEM-Portal is a web-based application designed to streamline the management of work programs within the Student Executive Board (BEM). The platform allows users to manage dwork programs, as well as track activities related to their roles.
 
@@ -20,6 +20,7 @@ BEM-Portal is a web-based application designed to streamline the management of w
 **Purpose:**  
 The BEM Portal improves efficiency, coordination, and transparency in managing work programs and documents, ensuring that all members have access to the necessary information for their duties.
 
+
 ---
 
 **Local Installation:**
@@ -35,6 +36,3 @@ The BEM Portal improves efficiency, coordination, and transparency in managing w
     * Make sure you are using **XAMPP** or any other local server that supports PHP and MySQL.
     * Enter the application URL in your browser to access the login page and other features.
 
---- 
-
-This includes the installation steps along with the key features and purpose of the website.
