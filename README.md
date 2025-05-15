@@ -26,7 +26,7 @@ The BEM Portal improves efficiency, coordination, and transparency in managing w
 **Local Installation:**
 
 1. **Clone Repository**:  
-    `git clone https://github.com/DwiyahantaEidelS/BEM-Portal.git`
+    `git clone https://github.com/DwiyashantaEidelS/BEM-Portal.git`
     
 2. **Install Database**:
     * Export the database file **pengurusbem.sql** and import it to your local or remote database server.
